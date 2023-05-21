@@ -1,0 +1,12 @@
+.moving-image {
+    animation: moveRight 30s linear infinite;
+  }
+  
+  @keyframes moveRight {
+    from {
+      transform: translateX(-100%);
+    }
+    to {
+      transform: translateX(100%);
+    }
+  }
