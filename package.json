@@ -27,7 +27,7 @@
     "react-router-dom": "^6.4.5",
     "react-scripts": "^5.0.1",
     "react-tailwindcss-datepicker": "^1.1.1",
-    "recharts": "^2.1.16",
+    "recharts": "^2.6.2",
     "swiper": "^8.4.5",
     "tw-elements": "^1.0.0-alpha12",
     "universal-cookie": "^4.0.4"
