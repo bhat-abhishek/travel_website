@@ -29,7 +29,7 @@
     "react-tailwindcss-datepicker": "^1.1.1",
     "recharts": "^2.1.16",
     "swiper": "^8.4.5",
-    "tw-elements": "^1.0.0-alpha12",
+    "tw-elements": "^1.0.0",
     "universal-cookie": "^4.0.4"
   },
   "scripts": {
