@@ -30,7 +30,7 @@
     "recharts": "^2.1.16",
     "swiper": "^8.4.5",
     "tw-elements": "^1.0.0-alpha12",
-    "universal-cookie": "^4.0.4"
+    "universal-cookie": "^7.2.1"
   },
   "scripts": {
     "start": "react-scripts start",
